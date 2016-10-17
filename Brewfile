@@ -1,4 +1,5 @@
-brew "fish"
+brew "zsh"
+brew "zsh-completions"
 brew "mas"
 
 cask "aerial"
