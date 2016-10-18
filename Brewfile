@@ -1,5 +1,7 @@
 brew "zsh"
 brew "zsh-completions"
+brew "chruby"
+brew "ruby-install"
 brew "mas"
 
 cask "aerial"
