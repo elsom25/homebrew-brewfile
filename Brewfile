@@ -1,8 +1,9 @@
+brew "ansible"
+brew "chruby"
+brew "mas"
+brew "ruby-install"
 brew "zsh"
 brew "zsh-completions"
-brew "chruby"
-brew "ruby-install"
-brew "mas"
 
 cask "aerial"
 cask "alfred"
