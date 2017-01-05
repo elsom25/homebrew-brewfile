@@ -1,4 +1,5 @@
 brew "ansible"
+brew "kafkacat"
 brew "mas"
 brew "zsh"
 brew "zsh-completions"
