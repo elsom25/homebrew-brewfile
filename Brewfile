@@ -3,6 +3,7 @@ brew "kafkacat"
 brew "mas"
 brew "zsh"
 brew "zsh-completions"
+brew "thefuck"
 
 cask "aerial"
 cask "alfred"
