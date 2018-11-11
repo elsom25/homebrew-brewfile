@@ -32,7 +32,8 @@ cask "vlc"
 
 mas "1Password", id: 443987910
 mas "Amphetamine", id: 937984704
-mas "Degrees Pro", id: 951510024
+mas "CARROT Weather", id: 993487541
+mas "Cardhop", id: 1290358394
 mas "Fantastical 2", id: 975937182
 mas "Irvue", id: 1039633667
 mas "Microsoft Remote Desktop", id: 715768417
