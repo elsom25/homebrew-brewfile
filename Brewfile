@@ -1,4 +1,3 @@
-brew "ansible"
 brew "ccat"
 brew "kafkacat"
 brew "heroku"
