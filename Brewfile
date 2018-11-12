@@ -1,6 +1,5 @@
 brew "ccat"
 brew "kafkacat"
-brew "heroku"
 brew "mas"
 brew "thefuck"
 brew "zsh"
