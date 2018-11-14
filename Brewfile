@@ -18,13 +18,10 @@ cask "iterm2"
 cask "java"
 cask "kap"
 cask "omnifocus"
-cask "path-finder"
 cask "sequel-pro"
 cask "sublime-text"
 cask "telegram"
 cask "the-unarchiver"
-cask "vagrant"
-cask "virtualbox"
 cask "vlc"
 
 mas "1Password", id: 443987910
